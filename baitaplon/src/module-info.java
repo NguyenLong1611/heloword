@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author LONG
+ *
+ */
+module baitaplon {
+}
